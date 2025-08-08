@@ -1,6 +1,3 @@
-# Create the final beautified README.md file for Project-3
-
-readme_content = """# 🎬 IMDb Movie Analytics using SQL – RSVP Movies Case Study
 
 ## 📌 Project Overview
 This project is an SQL-based case study for **RSVP Movies**, an Indian film production company planning to release a movie for a **global audience** in 2023. The goal is to analyse IMDb movie data from the past three years to derive **business insights** that can guide strategic decisions for their upcoming project.
